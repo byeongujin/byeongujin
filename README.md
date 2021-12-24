@@ -1,4 +1,4 @@
-## Unity Developer and Technical Artist
+## Unity XR Developer and Technical Artist
 I'm curious about everything. XR, AI, Metaverse... :grin:
 I'm looking for good collagues always.
 
