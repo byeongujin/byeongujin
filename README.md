@@ -1,4 +1,4 @@
-## XR Developer
+## XR Developer for the World Improvement
 - Korean Berliner. I was a navigator, a colmnist, a start-up-founder, and now a XR developer. 
 - I'm looking for good collagues always.
 - My Projects are focusing on communication between people, and I believe XR can make the world beautiful. :grin:
