@@ -1,12 +1,13 @@
-## Unity XR Developer and Technical Artist
-I'm curious about everything. XR, AI, Metaverse... :grin:
-I'm looking for good collagues always.
+## XR Developer
+- Korean Berliner. I was a navigator, a colmnist, a start-up-founder, and now a XR developer. 
+- I'm looking for good collagues always.
+- My Projects are focusing on communication between people, and I believe XR can make the world beautiful. :grin:
 
 ### Language
-:kr:Korean, :gb:English, :de:German, :computer:C#
+:kr:Korean, :gb:English, :de:German, :computer: Unity, Unreal, C#, C++, Javascript, Python
 
 ### Interests
-Sci-fi, Marathon, Sea and Ship, Tea
+Metaverse, NFT, Sci-fi, Digital Art
 
 ### Get in Touch
 :envelope: byeongujin@gmail.com
