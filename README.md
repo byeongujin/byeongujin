@@ -12,4 +12,4 @@ Metaverse, NFT, Sci-fi, Digital Art
 ### Get in Touch
 :envelope: byeongujin@gmail.com
 
-[homepage](http://oktopusmagazine.com/)
+[homepage](http://byeongujin.com/)
