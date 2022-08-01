@@ -1,6 +1,6 @@
 ## XR Developer for the World Improvement
 - Korean Berliner. I was a navigator, a columnist, a start-up-founder, and now a XR developer. 
-- I think XR is a combination of Philosophy, Art and Technic. My insight covered all this things.
+- I think XR is a combination of Philosophy, Art and Technology. My insight covered all this things.
 - My Projects are focusing on communication between people, and I believe XR can make the world beautiful. :grin:
 
 ### Language
